@@ -2407,7 +2407,7 @@ a {
   }
   #lp-pom-block-9-video-background-image {
     position:absolute;
-    background:url(https://i.vimeocdn.com/video/561907119_1280.jpg);
+    background:url('https://i.vimeocdn.com/video/561907119_1280.jpg');
     background-position:center center;
     background-size:cover;
   }
@@ -2701,4 +2701,3 @@ a {
     top:284px;
   }
 }
-</style>
